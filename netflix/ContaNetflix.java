@@ -49,7 +49,7 @@ public class ContaNetflix {
             }
         }
 
-        if (filmesDoGenero != null) {
+        if (filc:\Users\ysrae\OneDrive\Documents\Front-end\Cuso_java\Orientação_Object\Aula\src\ex05\README.mdmesDoGenero != null) {
             String mensagem = "Filmes do gênero " + generoEscolhido + ":\n";
             for (int i = 0; i < filmesDoGenero.length; i += 5) {
                 mensagem += "\nNome: " + filmesDoGenero[0] +
