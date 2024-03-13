@@ -2,11 +2,11 @@ package ex05.netflix;
 
 import javax.swing.JOptionPane;
 
-public class ContaNetflix {
-    public static void main(String[] args) {
+public class Filme {
 
-        Loguin premicao = new Loguin();
-        premicao.enviarAcceso();
+    private static void main(String[] args) {
+
+      
 
         String[] generos = { "Ação", "Drama", "Romance", "Comédia", "Suspense", "Terror" };
 
@@ -62,6 +62,8 @@ public class ContaNetflix {
         } else {
             JOptionPane.showMessageDialog(null, "Nenhum filme encontrado para o gênero selecionado.");
         }
+
     }
 
 }
+
