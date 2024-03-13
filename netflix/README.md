@@ -1,4 +1,7 @@
-Modificadores de acesso 
+  
+  Faze 1
+
+  Modificadores de acesso 
     // private
     // public 
 
@@ -95,4 +98,34 @@ Encontrando Filmes do Gênero Escolhido: Depois que o usuário escolhe um gêner
 Mostrando Detalhes dos Filmes do Gênero Escolhido: Se filmes forem encontrados para o gênero escolhido, iteramos sobre eles e montamos uma mensagem contendo os detalhes de cada filme (nome, ator principal, sinopse, classificação indicativa e prêmio Oscar, se houver). Essa mensagem é exibida em uma caixa de diálogo usando JOptionPane.showMessageDialog.
 
 Tratamento de Casos Especiais: Caso nenhum filme seja encontrado para o gênero escolhido, exibimos uma mensagem informando ao usuário que nenhum filme foi encontrado.
+
+
+faze 2
+
+    Adicionaremos uma tela de cadrastro 
+
+      nome 
+      sobrenome 
+      telefone 
+      endereço 
+      cep 
+      sexo
+
+      plano de uso
+
+      familiar 5 pessoa 40 resia 
+      trio 3 pesspa 25 reais 
+      dupla 2 pessoa 18 reais 
+      solo 10 reais 
+
+    
+    
+    faze 3  
+
+      formas de pagamento
+
+      cartão de credito 
+      pix 
+      boleto 
+
     

@@ -1,4 +1,4 @@
-package ex05.netflix;
+package netflix;
 
 import javax.swing.JOptionPane;
 
